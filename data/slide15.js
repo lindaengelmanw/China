@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{CB164C10-E375-47F6-B09A-43D2A1E1024F}'];loadHandler&&loadHandler(14, '<div id="spr0_2617bcb3"><div id="spr1_2617bcb3" class="kern slide"><img id="img2_2617bcb3" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2617bcb3" class="kern slide"><div id="spr3_2617bcb3" style="left:-43.826px;top:-139.098px;"><img id="img0_2617bcb3" src="data/img25.png" width="1120.5" height="997.5" alt="A map of china with black text\
+\
+AI-generated content may be incorrect." style="left:0.073px;top:0.121px;"/></div><div id="spr4_2617bcb3" style="left:72px;top:135.932px;"><img id="img1_2617bcb3" src="data/img26.png" width="816" height="268.5" alt="A blue and white business card\
+\
+AI-generated content may be incorrect." style="top:-0.137px;"/></div></div></div>', '{"s":[]}');})();
